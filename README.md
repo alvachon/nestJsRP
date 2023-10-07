@@ -31,6 +31,14 @@ dependencies:
     }
 }
 ```
+``
+Pipe : Validate Incoming request (Data Validation)
+Controller : Request in, Response out
+Service : Handle the data of the repository and the rest of the code (ex auth service ..)
+Repository : Database 
+5.53
+``
+9. creating a main.ts file (starting point)
 at 4.35 in https://www.youtube.com/watch?v=yNj_tzbX6BQ
 
 Edit : I created a .gitignore and added node_modules
